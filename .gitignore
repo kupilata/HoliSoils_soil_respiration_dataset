@@ -1,0 +1,8 @@
+# Ignore all CSV and TXT data files
+*.csv
+*.txt
+
+# Ignore temporary or system files
+*.log
+*.tmp
+*.swp
